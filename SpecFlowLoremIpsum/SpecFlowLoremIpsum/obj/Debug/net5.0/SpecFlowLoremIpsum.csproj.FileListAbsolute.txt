@@ -1,0 +1,5 @@
+C:\Users\shatr\OneDrive\Desktop\Sasha\SpecFlowLoremIpsum\SpecFlowLoremIpsum\obj\Debug\net5.0\SpecFlowLoremIpsum.csproj.AssemblyReference.cache
+C:\Users\shatr\OneDrive\Desktop\Sasha\SpecFlowLoremIpsum\SpecFlowLoremIpsum\obj\Debug\net5.0\SpecFlowLoremIpsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shatr\OneDrive\Desktop\Sasha\SpecFlowLoremIpsum\SpecFlowLoremIpsum\obj\Debug\net5.0\SpecFlowLoremIpsum.AssemblyInfoInputs.cache
+C:\Users\shatr\OneDrive\Desktop\Sasha\SpecFlowLoremIpsum\SpecFlowLoremIpsum\obj\Debug\net5.0\SpecFlowLoremIpsum.AssemblyInfo.cs
+C:\Users\shatr\OneDrive\Desktop\Sasha\SpecFlowLoremIpsum\SpecFlowLoremIpsum\obj\Debug\net5.0\SpecFlowLoremIpsum.csproj.CoreCompileInputs.cache
